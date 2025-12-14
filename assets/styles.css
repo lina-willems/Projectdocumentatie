@@ -84,4 +84,21 @@ background: #d2e8ff;
   box-shadow: 0 6px 14px rgba(0,0,0,0.2);
 }
 
+footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #d2e8ff;
+      color: #333;
+      font-size: 16px;
+      margin-top: 40px;
+    }
 
+    footer a {
+      color: #8dbbed;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
